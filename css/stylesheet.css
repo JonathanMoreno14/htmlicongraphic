@@ -1,0 +1,50 @@
+.img-pattern{
+  position: relative;
+  background-color:  #4891ea;
+  background:#4891ea url(../img/wall_pattern.png) center bottom;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 14em;
+  min-height: 425px;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+}
+a{
+  text-decoration:none;
+}
+
+.header-title{
+  font-family: 'Pacifico', cursive;
+  padding-top: 305px;
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn {
+    background-color: #4891ea;
+    color: white;
+    border: 2px solid white;
+    margin-top: 67px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #4891ea;
+    border: 2px solid  #4891ea;
+}
