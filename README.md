@@ -16,10 +16,13 @@ element that is utilized in website/mobile designed with icons as wallpaper(Jumb
 ![pixlr_screencast2](https://cloud.githubusercontent.com/assets/11635523/14069762/ac3197aa-f463-11e5-8d6c-56d3c5e56278.png)
 
 4. While using Pixlr  I added the icons to the 500 x 200 canvas and made the canvas transparent
-//screen cast 3
-//screen cast 4
-//screen cast 5
-//screen cast 6
+
+
+![pixlr_screencast4](https://cloud.githubusercontent.com/assets/11635523/14069785/f51d1f3e-f463-11e5-8ac2-401d0a10cc6f.png)
+![pixlr_screencast5](https://cloud.githubusercontent.com/assets/11635523/14069784/f51d44e6-f463-11e5-8428-7a59bf9ad0fa.png)
+![pixlr_screencast6](https://cloud.githubusercontent.com/assets/11635523/14069787/f51df6de-f463-11e5-86e7-3f8bf8e97af1.png)
+![pixlr_screencast3](https://cloud.githubusercontent.com/assets/11635523/14069786/f51dc5c4-f463-11e5-840e-eb1870d7ef10.png)
+
 5. Added the img to the img subfolder and I utilized the <div class="img-pattern"> class from the CSS file
 6. Added the button with h1 text
 
