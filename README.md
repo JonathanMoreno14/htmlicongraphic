@@ -1,5 +1,9 @@
 # HTML/CSS Icon graphic wallpaper
 
+![screen_capture](https://cloud.githubusercontent.com/assets/11635523/14069745/6cafde52-f463-11e5-9f60-a69f3519b23c.png)
+
+
+
 This is a snippet of code to illustrate the design
 element that is utilized in website/mobile designed with icons as wallpaper(Jumbotron) or as part of the design element.
 
