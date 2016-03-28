@@ -7,15 +7,15 @@
 This is a snippet of code to illustrate the design
 element that is utilized in website/mobile designed with icons as wallpaper(Jumbotron) or as part of the design element.
 
-1. Created the folder for the with CSS/img subfolders and index.html file
-2. Downloaded the icons I planned to use for the design from Flaticons
-3. In Pixlr I created a new image with a 500 x 200 pixel canvas
+Created the folder for the with **css/img** subfolders and **index.html** file
+Downloaded the icons I planned to use for the design from Flaticons
+In Pixlr I created a new image with a 500 x 200 pixel canvas
 
 
 ![pixlr_screencast1](https://cloud.githubusercontent.com/assets/11635523/14069760/a90601b0-f463-11e5-8686-9bf1b8f909b3.png)
 ![pixlr_screencast2](https://cloud.githubusercontent.com/assets/11635523/14069762/ac3197aa-f463-11e5-8d6c-56d3c5e56278.png)
 
-4. While using Pixlr  I added the icons to the 500 x 200 canvas and made the canvas transparent
+While using Pixlr  I added the icons to the 500 x 200 canvas and made the canvas **transparent**
 
 
 ![pixlr_screencast3](https://cloud.githubusercontent.com/assets/11635523/14069786/f51dc5c4-f463-11e5-840e-eb1870d7ef10.png)
@@ -23,8 +23,8 @@ element that is utilized in website/mobile designed with icons as wallpaper(Jumb
 ![pixlr_screencast5](https://cloud.githubusercontent.com/assets/11635523/14069784/f51d44e6-f463-11e5-8428-7a59bf9ad0fa.png)
 ![pixlr_screencast6](https://cloud.githubusercontent.com/assets/11635523/14069787/f51df6de-f463-11e5-86e7-3f8bf8e97af1.png)
 
-5. Added the img to the img subfolder and I utilized the <div class="img-pattern"> class from the CSS file
-6. Added the button with h1 text
+Added the img to the img subfolder and I utilized the **<div class="img-pattern">** class from the CSS file
+Added the button with h1 text, for the text I used google fonts
 
 ```html
 
