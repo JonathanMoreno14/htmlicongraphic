@@ -12,6 +12,9 @@ element that is utilized in website/mobile designed with icons as wallpaper(Jumb
 3. In Pixlr I created a new image with a 500 x 200 pixel canvas
 ///screen cast 1
 //screen cast 2
+![pixlr_screencast1](https://cloud.githubusercontent.com/assets/11635523/14069760/a90601b0-f463-11e5-8686-9bf1b8f909b3.png)
+![pixlr_screencast2](https://cloud.githubusercontent.com/assets/11635523/14069762/ac3197aa-f463-11e5-8d6c-56d3c5e56278.png)
+
 4. While using Pixlr  I added the icons to the 500 x 200 canvas and made the canvas transparent
 //screen cast 3
 //screen cast 4
